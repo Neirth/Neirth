@@ -1,7 +1,10 @@
 <p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=github.com&#47;Neirth&font=Raleway&weight=100&size=42&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&height=60&duration=3000&pause=1000000&repeat=false" alt="Neirth"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=github.com&#47;Neirth&font=Raleway&weight=100&size=42&color=000000&background=FFFFFFFF&center=true&vCenter=true&width=400&height=60&duration=3000&pause=1000000&repeat=false" alt="Neirth"/>
+  </picture>
   
-  <img media="(prefers-color-scheme: dark)" src="https://readme-typing-svg.demolab.com/?lines=github.com&#47;Neirth&font=Raleway&weight=100&size=42&color=FFFFFF&background=00000000&center=true&vCenter=true&width=400&height=60&duration=3000&pause=1000000&repeat=false" alt="Neirth"/>
-  <img media="(prefers-color-scheme: light)" src="https://readme-typing-svg.demolab.com/?lines=github.com&#47;Neirth&font=Raleway&weight=100&size=42&color=000000&background=FFFFFFFF&center=true&vCenter=true&width=400&height=60&duration=3000&pause=1000000&repeat=false" alt="Neirth"/>
 </p>
 
 <p align="center">
