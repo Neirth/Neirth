@@ -43,17 +43,3 @@ Right now, something ambitious is taking shape from the foundations of NeuralAna
 **Operating Systems and Architectures**
 
 - [**FreeNOS**](https://github.com/Neirth/FreeNOS) -- A fork of a minimal POSIX-based OS built for learning OS fundamentals. I pulled it from Google Source Code, gave it visibility, and kept supporting the original author's work.
-
----
-
-### Sponsors
-
-If you find my work useful or interesting, consider [sponsoring me](https://github.com/sponsors/Neirth). It helps cover development costs and fuels what comes next.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="sponsors.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="sponsors.svg" />
-    <img src="sponsors.svg" alt="Sponsors" />
-  </picture>
-</p>
